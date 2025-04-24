@@ -15,9 +15,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/maduwanthi-lakshika-896517239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://lk.linkedin.com/in/maduwanthi-lakshika-896517239" height="30" width="40" /></a>
 <a href="https://medium.com/@maduwanthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maduwanthi" height="30" width="40" /></a>
-  <a href="mailto:maduwanthi20001113@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
-  </a>
+ <a href="mailto:maduwanthi20001113@gmail.com?subject=Hello%20Maduwanthi&body=I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out!">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
