@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maduwanthii&show_icons=true&locale=en" alt="maduwanthii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maduwanthii&" alt="maduwanthii" /></p>
-![snake gif](https://raw.githubusercontent.com/maduwanthii/maduwanthii/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="90%" />
 
 
 
