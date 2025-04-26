@@ -46,9 +46,8 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h">Embedding Models You Can Use in Your Next Project For Free 🚀</a></li>
+  <li><a href="https://medium.com/@maduwanthi/the-rise-of-ai-before-coding-transforming-how-developers-start-projects-ff3b980c691d">🔥The Rise of AI Before Coding: Transforming How Developers Start Projects<1 min🙂</a></li>
+  
 </ul>
 <br />
 <h3 align="center">📝 Certificações</h3>
