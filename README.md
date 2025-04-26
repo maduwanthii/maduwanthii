@@ -1,35 +1,82 @@
-<h1 align="center">Hi 👋, I'm Maduwanthi Lakshika</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maduwanthii&label=Profile%20views&color=0e75b6&style=flat" alt="maduwanthii" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maduwanthii&label=Profile%20views&color=0e75b6&style=flat" alt="maduwanthii" /> </p>
+<!-- <h4 align="center">
+<img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+</h4> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maduwanthii" alt="maduwanthii" /></a> </p>
 
-- 🌱 I’m currently learning **Express**
-
-- 📝 I regularly write articles on [medium.com/@maduwanthi](medium.com/@maduwanthi)
-
-- 💬 Ask me about **react , node js**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maduwanthi-lakshika-896517239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://lk.linkedin.com/in/maduwanthi-lakshika-896517239" height="30" width="40" /></a>
-<a href="https://medium.com/@maduwanthi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@maduwanthi" height="30" width="40" /></a>
- <a href="mailto:maduwanthi20001113@gmail.com?subject=Hello%20Maduwanthi&body=I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out!">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
-</a>
-
+<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Maduwanthi+Lakshika.;I'm+a+Backend+Developer,+technical+writer;"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maduwanthii&show_icons=true&locale=en&layout=compact" alt="maduwanthii" /></p>
+- 👋 My name is Maduwanthi Lakshika  
+- 🌍 Location: Sri Lanka.  
+- 🎓 **Followed Higher National Diploma in Information Technology at SLIATE, Badulla.**
+- 💼 **Junior Web Developer at Spark Global Solutions** – focusing on web development.
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maduwanthii&show_icons=true&locale=en" alt="maduwanthii" /></p>
+<h3 align="center">💻 Skills e Tecnologias:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maduwanthii&" alt="maduwanthii" /></p>
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="90%" />
+- **Languages**: PHP, JavaScript, Node.js  
+- **Frameworks**: React.js, Next.js, Bootstrap  
+- **Databases**: MySQL, PostgreSQL, Firebase  
+- **Cloud**: AWS 
+- **Tools**: Git, GitHub  
+- **Communication Technologies**: WebRTC, Socket.io, Peer-to-Peer Connection  
+- **Payment Gateway**: (Payhere)
+
+  <!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
+  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+  <li><a href="https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h">Embedding Models You Can Use in Your Next Project For Free 🚀</a></li>
+</ul>
+<br />
+<h3 align="center">📝 Certificações</h3>
 
 
 
+<div align="center">
+<h3 align="center">📧 Connect with me</h3>
+<a href="https://lk.linkedin.com/in/maduwanthi-lakshika-896517239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:maduwanthi20001113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+</div>
+
+<br>
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=maduwanthii&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+
+<div align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=maduwanthii&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduwanthii&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<td valign="top">
+                
+ 
+ <div align="center">
+
+ <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="90%" />
+
+</div>
