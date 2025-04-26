@@ -29,7 +29,7 @@
 - **Payment Gateway**: (Payhere)
 
   <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tech Stack & Latest Blogs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -46,7 +46,8 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://medium.com/@maduwanthi/the-rise-of-ai-before-coding-transforming-how-developers-start-projects-ff3b980c691d">🔥The Rise of AI Before Coding: Transforming How Developers Start Projects<1 min🙂</a></li>
+  <li><a href="https://medium.com/@maduwanthi/the-rise-of-ai-before-coding-transforming-how-developers-start-projects-ff3b980c691d">🔥The Rise of AI Before Coding: Transforming How Developers Start Projects🙂</a></li>
+   <li><a href="https://medium.com/@maduwanthi/draftbit-revolutionizing-mobile-app-development-for-everyone-1d98d44c98e0">🔥Draftbit: Revolutionizing Mobile App Development for Everyone🙂</a></li>
   
 </ul>
 <br />
